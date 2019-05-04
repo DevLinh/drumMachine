@@ -1,3 +1,8 @@
+Drum Machine - freeCodeCamp Challenge Project
+Front End Libraries Projects - Build a Drum Machine
+https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine/
+Owner: Vo Van Linh
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
